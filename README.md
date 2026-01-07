@@ -20,3 +20,5 @@ Created a C-based application to help farmers manage crop details, pricing, and 
 
 ## Why this project matters to me
 This project strengthened my fundamentals in C programming and helped me understand how software can solve real-world agricultural problems.
+
+## PROGRAM
